@@ -8,7 +8,7 @@ int[] dades = new int[5];
          dades[i] = sc.nextInt();
 }
     for (int i = 0; i <= 4; i++) {
-        System.out.println(dades[i]);
+        System.out.println(i + ":" + dades[i]);
     }
 
     System.out.println("Longitud: " + dades.length);

@@ -15,61 +15,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1280211655957166" />
-      <entry key="MS500" value="2.072518605940086" />
-      <entry key="S2" value="2.704400125790943" />
-      <entry key="S5" value="2.8754742756889016" />
-      <entry key="S10" value="2.94767789707416" />
-      <entry key="S30" value="3.63346547329736" />
-      <entry key="S60" value="5.47631378562039" />
-      <entry key="M2" value="9.103731138503274" />
-      <entry key="M5" value="16.570579806112764" />
-      <entry key="M10" value="28.776299176920563" />
-      <entry key="M15" value="41.87397122205337" />
-      <entry key="M30" value="70.63438543606092" />
-      <entry key="H1" value="96.85154569535024" />
-      <entry key="H2" value="114.77826647589066" />
-      <entry key="H4" value="125.29096682229947" />
-      <entry key="D1" value="134.95963310027784" />
-      <entry key="W1" value="136.7062631472434" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000013" />
+      <entry key="S2" value="1.0004371174579874" />
+      <entry key="S5" value="1.0875226318314775" />
+      <entry key="S10" value="1.5142632212639247" />
+      <entry key="S30" value="3.0302811603385726" />
+      <entry key="S60" value="5.093604658301034" />
+      <entry key="M2" value="8.870969144928335" />
+      <entry key="M5" value="16.633680039136145" />
+      <entry key="M10" value="28.950957984755014" />
+      <entry key="M15" value="42.069428088751486" />
+      <entry key="M30" value="70.95252950389079" />
+      <entry key="H1" value="97.38294284842083" />
+      <entry key="H2" value="115.50026038805663" />
+      <entry key="H4" value="126.13914030609563" />
+      <entry key="D1" value="135.93236217377424" />
+      <entry key="W1" value="137.7023165392682" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.8745381815053846E-76" />
-      <entry key="MS500" value="7.154492918537413E-16" />
-      <entry key="S2" value="1.6354780303074224E-4" />
-      <entry key="S5" value="0.030581436793709213" />
-      <entry key="S10" value="0.17487548940235986" />
-      <entry key="S30" value="0.5592370538282342" />
-      <entry key="S60" value="0.7528758650849154" />
-      <entry key="M2" value="0.9450569220386154" />
-      <entry key="M5" value="1.5346040163703538" />
-      <entry key="M10" value="2.385810976689885" />
-      <entry key="M15" value="3.003394488457605" />
-      <entry key="M30" value="4.053939564302914" />
-      <entry key="H1" value="4.869039714847715" />
-      <entry key="H2" value="5.386983498853499" />
-      <entry key="H4" value="5.6804060883908996" />
-      <entry key="D1" value="5.944804237527398" />
-      <entry key="W1" value="5.992066075909452" />
+      <entry key="MS100" value="2.776120946681827E-152" />
+      <entry key="MS500" value="4.883010707424233E-31" />
+      <entry key="S2" value="2.6434549842838917E-8" />
+      <entry key="S5" value="9.30826561726816E-4" />
+      <entry key="S10" value="0.030509450367500697" />
+      <entry key="S30" value="0.3124863750309238" />
+      <entry key="S60" value="0.5627829721018963" />
+      <entry key="M2" value="0.817084090072308" />
+      <entry key="M5" value="1.447837580786224" />
+      <entry key="M10" value="2.3173828559063008" />
+      <entry key="M15" value="2.9456889415088443" />
+      <entry key="M30" value="4.014805611009282" />
+      <entry key="H1" value="4.845481537682768" />
+      <entry key="H2" value="5.373935608745685" />
+      <entry key="H4" value="5.673522621139453" />
+      <entry key="D1" value="5.943602987081501" />
+      <entry key="W1" value="5.991893089425742" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8783295528912144" />
-      <entry key="MS500" value="1.4345964843881465" />
-      <entry key="S2" value="2.2436330154049324" />
-      <entry key="S5" value="2.6533484784251424" />
-      <entry key="S10" value="2.9425867482985675" />
-      <entry key="S30" value="4.0637688306905035" />
-      <entry key="S60" value="6.115458986927817" />
-      <entry key="M2" value="9.954264499269616" />
-      <entry key="M5" value="18.04155927963618" />
-      <entry key="M10" value="31.117566374367104" />
-      <entry key="M15" value="44.84179286183036" />
-      <entry key="M30" value="74.66553203554352" />
-      <entry key="H1" value="101.70723632027963" />
-      <entry key="H2" value="120.15795331812929" />
-      <entry key="H4" value="130.96754814712904" />
-      <entry key="D1" value="140.903773362169" />
-      <entry key="W1" value="142.69823369217698" />
+      <entry key="MS100" value="0.6597539553864471" />
+      <entry key="MS500" value="0.9201876506248761" />
+      <entry key="S2" value="0.9797829403597168" />
+      <entry key="S5" value="1.072478378985756" />
+      <entry key="S10" value="1.5092247529649028" />
+      <entry key="S30" value="3.2693375772051345" />
+      <entry key="S60" value="5.570679804004783" />
+      <entry key="M2" value="9.605982863085526" />
+      <entry key="M5" value="18.021351785770218" />
+      <entry key="M10" value="31.225005321858728" />
+      <entry key="M15" value="44.98018144971377" />
+      <entry key="M30" value="74.94473907309686" />
+      <entry key="H1" value="102.21512833152957" />
+      <entry key="H2" value="120.86691123731441" />
+      <entry key="H4" value="131.80883991038027" />
+      <entry key="D1" value="141.87530083803517" />
+      <entry key="W1" value="143.6941140317114" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -81,27 +81,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oriol/IdeaProjects/Arrays/src/Main.java&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/oriol/IdeaProjects/Arrays/src/Main.java",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
