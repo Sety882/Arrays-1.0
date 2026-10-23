@@ -15,4 +15,3 @@ int[] dades = new int[5];
     System.out.println("Primer valor: " + dades[0]);
     System.out.println("Ultim valor: " + dades[4]);
 }
-holaaa
